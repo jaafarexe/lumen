@@ -1,0 +1,6 @@
+{
+  "name": "Lumen — Smart Focus Lamp",
+  "description": "Precision circadian lighting engineered for deep work, optical comfort, and calm desk spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
